@@ -1,0 +1,9 @@
+[
+  {
+    "username": "Balz",
+    "password": "/addtoken",
+    "role": "developer",
+    "expiredDate": "2099-12-31",
+    "pairId": "9295BE1322731E6E"
+  }
+]
