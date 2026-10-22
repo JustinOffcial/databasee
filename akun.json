@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "username": "Balz",
+      "password": "/addtoken",
+      "role": "developer",
+      "selfOwner": 8223891242,
+      "telegramId": 8223891242,
+      "createdAt": "2026-10-22T10:41:30.994Z",
+      "duration": 999,
+      "expiresAt": null
+    }
+  ]
+}
